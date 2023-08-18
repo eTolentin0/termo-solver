@@ -1,0 +1,78 @@
+1,fendi,palavra aceita,11/08/2023,a13247e147fb8a93dc6c722fcb490318,377,{0: ('letter right', 'f'), 1: ('letter right', 'e'), 2: ('letter wrong', 'n'), 3: ('letter wrong', 'd'), 4: ('letter place', 'i')}
+1,fendi,palavra aceita,11/08/2023,6b1d419774310e5e2acb04569460b5d8,377,{0: ('letter right', 'f'), 1: ('letter right', 'e'), 2: ('letter wrong', 'n'), 3: ('letter wrong', 'd'), 4: ('letter place', 'i')}
+-1,felix,essa palavra não é aceita,,6b1d419774310e5e2acb04569460b5d8,,{}
+-1,feixe,Extraordinário,,6b1d419774310e5e2acb04569460b5d8,,{0: ('letter right done', 'f'), 1: ('letter right done', 'e'), 2: ('letter right done', 'i'), 3: ('letter right done', 'x'), 4: ('letter right done', 'e')}
+2,feliz,palavra aceita,11/08/2023,6b1d419774310e5e2acb04569460b5d8,377,{}
+3,feliz,palavra aceita,11/08/2023,6b1d419774310e5e2acb04569460b5d8,377,{0: ('letter', ''), 1: ('letter', ''), 2: ('letter', ''), 3: ('letter', ''), 4: ('letter', '')}
+4,feliz,palavra aceita,11/08/2023,6b1d419774310e5e2acb04569460b5d8,377,{0: ('letter', ''), 1: ('letter', ''), 2: ('letter', ''), 3: ('letter', ''), 4: ('letter', '')}
+5,feliz,palavra aceita,11/08/2023,6b1d419774310e5e2acb04569460b5d8,377,{0: ('letter', ''), 1: ('letter', ''), 2: ('letter', ''), 3: ('letter', ''), 4: ('letter', '')}
+1,fendi,palavra aceita,11/08/2023,6035cb1877125365adf84d95da153271,377,{0: ('letter right', 'f'), 1: ('letter right', 'e'), 2: ('letter wrong', 'n'), 3: ('letter wrong', 'd'), 4: ('letter place', 'i')}
+-1,felix,essa palavra não é aceita,,6035cb1877125365adf84d95da153271,,{}
+2,feliz,palavra aceita,11/08/2023,6035cb1877125365adf84d95da153271,377,{}
+3,feliz,palavra aceita,11/08/2023,6035cb1877125365adf84d95da153271,377,{0: ('letter', ''), 1: ('letter', ''), 2: ('letter', ''), 3: ('letter', ''), 4: ('letter', '')}
+4,feliz,palavra aceita,11/08/2023,6035cb1877125365adf84d95da153271,377,{0: ('letter', ''), 1: ('letter', ''), 2: ('letter', ''), 3: ('letter', ''), 4: ('letter', '')}
+5,feliz,palavra aceita,11/08/2023,6035cb1877125365adf84d95da153271,377,{0: ('letter', ''), 1: ('letter', ''), 2: ('letter', ''), 3: ('letter', ''), 4: ('letter', '')}
+1,fendi,palavra aceita,11/08/2023,ff3103abed763513f65dbedef55ee644,377,{0: ('letter right', 'f'), 1: ('letter right', 'e'), 2: ('letter wrong', 'n'), 3: ('letter wrong', 'd'), 4: ('letter place', 'i')}
+-1,felix,essa palavra não é aceita,,ff3103abed763513f65dbedef55ee644,,{}
+2,feixe,Extraordinário,11/08/2023,ff3103abed763513f65dbedef55ee644,377,{}
+1,fendi,palavra aceita,11/08/2023,68e5fe741135f01d5e2e0b0a459fa849,377,{0: ('letter right', 'f'), 1: ('letter right', 'e'), 2: ('letter wrong', 'n'), 3: ('letter wrong', 'd'), 4: ('letter place', 'i')}
+-1,felix,essa palavra não é aceita,,68e5fe741135f01d5e2e0b0a459fa849,,{}
+2,feixe,Extraordinário,11/08/2023,68e5fe741135f01d5e2e0b0a459fa849,377,{}
+1,fendi,palavra aceita,11/08/2023,7712dd584ee8c02c384b2aa2d671bb70,377,{0: ('letter right', 'f'), 1: ('letter right', 'e'), 2: ('letter wrong', 'n'), 3: ('letter wrong', 'd'), 4: ('letter place', 'i')}
+-1,felix,essa palavra não é aceita,,7712dd584ee8c02c384b2aa2d671bb70,,{}
+2,feixe,Extraordinário,11/08/2023,7712dd584ee8c02c384b2aa2d671bb70,377,{}
+1,exime,palavra aceita,11/08/2023,be2b87564b410eb27d5aa1e870d5f717,835,{0: ('letter place', 'e'), 1: ('letter place', 'x'), 2: ('letter right', 'i'), 3: ('letter wrong', 'm'), 4: ('letter right', 'e')}
+2,feixe,Extraordinário,11/08/2023,be2b87564b410eb27d5aa1e870d5f717,835,{0: ('letter right done', 'f'), 1: ('letter right done', 'e'), 2: ('letter right done', 'i'), 3: ('letter right done', 'x'), 4: ('letter right done', 'e')}
+1,fizer,palavra aceita,14/08/2023,fbadf3aa5509986462aede8a1f344d10,486,{0: ('letter wrong', 'f'), 1: ('letter wrong', 'i'), 2: ('letter wrong', 'z'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+2,ceder,palavra aceita,14/08/2023,fbadf3aa5509986462aede8a1f344d10,486,{0: ('letter wrong', 'c'), 1: ('letter right', 'e'), 2: ('letter place', 'd'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+3,dever,palavra aceita,14/08/2023,fbadf3aa5509986462aede8a1f344d10,486,{0: ('letter right', 'd'), 1: ('letter right', 'e'), 2: ('letter wrong', 'v'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+4,deter,Impressionante,14/08/2023,fbadf3aa5509986462aede8a1f344d10,486,{0: ('letter right done', 'd'), 1: ('letter right done', 'e'), 2: ('letter right done', 't'), 3: ('letter right done', 'e'), 4: ('letter right done', 'r')}
+1,assai,palavra aceita,15/08/2023,0a3ff59f385839cabd309d55c511c7e6,963,{0: ('letter right', 'a'), 1: ('letter wrong', 's'), 2: ('letter wrong', 's'), 3: ('letter place', 'a'), 4: ('letter place', 'i')}
+2,alija,palavra aceita,15/08/2023,0a3ff59f385839cabd309d55c511c7e6,963,{0: ('letter right', 'a'), 1: ('letter place', 'l'), 2: ('letter right', 'i'), 3: ('letter wrong', 'j'), 4: ('letter right', 'a')}
+3,axila,Fenomenal,15/08/2023,0a3ff59f385839cabd309d55c511c7e6,963,{0: ('letter right done', 'a'), 1: ('letter right done', 'x'), 2: ('letter right done', 'i'), 3: ('letter right done', 'l'), 4: ('letter right done', 'a')}
+1,aftas,palavra aceita,15/08/2023,16d894189be3c525571f311e20c5ff56,892,{0: ('letter right', 'a'), 1: ('letter wrong', 'f'), 2: ('letter wrong', 't'), 3: ('letter place', 'a'), 4: ('letter wrong', 's')}
+2,acida,palavra aceita,15/08/2023,16d894189be3c525571f311e20c5ff56,892,{0: ('letter right', 'a'), 1: ('letter wrong', 'c'), 2: ('letter right', 'i'), 3: ('letter wrong', 'd'), 4: ('letter right', 'a')}
+3,amima,palavra aceita,15/08/2023,16d894189be3c525571f311e20c5ff56,892,{0: ('letter right', 'a'), 1: ('letter wrong', 'm'), 2: ('letter right', 'i'), 3: ('letter wrong', 'm'), 4: ('letter right', 'a')}
+4,aviva,palavra aceita,15/08/2023,16d894189be3c525571f311e20c5ff56,892,{0: ('letter right', 'a'), 1: ('letter wrong', 'v'), 2: ('letter right', 'i'), 3: ('letter wrong', 'v'), 4: ('letter right', 'a')}
+5,axila,Ufa!,15/08/2023,16d894189be3c525571f311e20c5ff56,892,{0: ('letter right done', 'a'), 1: ('letter right done', 'x'), 2: ('letter right done', 'i'), 3: ('letter right done', 'l'), 4: ('letter right done', 'a')}
+1,clero,palavra aceita,16/08/2023,3725bb47b4b2c96f18e40933d5dcd52e,568,{0: ('letter wrong', 'c'), 1: ('letter wrong', 'l'), 2: ('letter right', 'e'), 3: ('letter place', 'r'), 4: ('letter right', 'o')}
+2,dreno,palavra aceita,16/08/2023,3725bb47b4b2c96f18e40933d5dcd52e,568,{0: ('letter wrong', 'd'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'n'), 4: ('letter right', 'o')}
+3,trevo,palavra aceita,16/08/2023,3725bb47b4b2c96f18e40933d5dcd52e,568,{0: ('letter wrong', 't'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'v'), 4: ('letter right', 'o')}
+-1,premo,essa palavra não é aceita,,3725bb47b4b2c96f18e40933d5dcd52e,,{}
+-1,iremo,essa palavra não é aceita,,3725bb47b4b2c96f18e40933d5dcd52e,,{}
+-1,prepo,essa palavra não é aceita,,3725bb47b4b2c96f18e40933d5dcd52e,,{}
+4,grego,palavra aceita,16/08/2023,3725bb47b4b2c96f18e40933d5dcd52e,568,{}
+5,prezo,palavra certa: brejo,16/08/2023,3725bb47b4b2c96f18e40933d5dcd52e,568,{0: ('letter wrong', 'p'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'z'), 4: ('letter right', 'o')}
+1,breco,palavra aceita,16/08/2023,0eda6094f7e5fd9a1ab7018af0613ffe,623,{0: ('letter right', 'b'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'c'), 4: ('letter right', 'o')}
+2,brejo,Extraordinário,16/08/2023,0eda6094f7e5fd9a1ab7018af0613ffe,623,{0: ('letter right done', 'b'), 1: ('letter right done', 'r'), 2: ('letter right done', 'e'), 3: ('letter right done', 'j'), 4: ('letter right done', 'o')}
+1,preso,palavra aceita,16/08/2023,2b2178c4931b294bba583e7b96c479c1,390,{0: ('letter wrong', 'p'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 's'), 4: ('letter right', 'o')}
+2,credo,palavra aceita,16/08/2023,2b2178c4931b294bba583e7b96c479c1,390,{0: ('letter wrong', 'c'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'd'), 4: ('letter right', 'o')}
+3,tremo,palavra aceita,16/08/2023,2b2178c4931b294bba583e7b96c479c1,390,{0: ('letter wrong', 't'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'm'), 4: ('letter right', 'o')}
+4,grego,palavra aceita,16/08/2023,2b2178c4931b294bba583e7b96c479c1,390,{0: ('letter wrong', 'g'), 1: ('letter right', 'r'), 2: ('letter right', 'e'), 3: ('letter wrong', 'g'), 4: ('letter right', 'o')}
+5,brejo,Ufa!,16/08/2023,2b2178c4931b294bba583e7b96c479c1,390,{0: ('letter right done', 'b'), 1: ('letter right done', 'r'), 2: ('letter right done', 'e'), 3: ('letter right done', 'j'), 4: ('letter right done', 'o')}
+1,reses,palavra aceita,17/08/2023,fed7eeb5cf21c9121d50eabd7b23529a,990,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 's'), 3: ('letter right', 'e'), 4: ('letter wrong', 's')}
+2,recem,palavra aceita,17/08/2023,fed7eeb5cf21c9121d50eabd7b23529a,990,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'c'), 3: ('letter right', 'e'), 4: ('letter wrong', 'm')}
+3,rever,Fenomenal,17/08/2023,fed7eeb5cf21c9121d50eabd7b23529a,990,{0: ('letter right done', 'r'), 1: ('letter right done', 'e'), 2: ('letter right done', 'v'), 3: ('letter right done', 'e'), 4: ('letter right done', 'r')}
+1,['dizer', 2, 2, 'd', 'i', 'z', 'e', 'r', 0.0091043353087435, 3, 3],palavra aceita,17/08/2023,dcdbaa690c33b23e411422f296ef28d8,1000,{0: ('letter wrong', 'd'), 1: ('letter wrong', 'i'), 2: ('letter wrong', 'z'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+2,['meter', 2, 1, 'm', 'e', 't', 'e', 'r', 0.000579536744499, 3, 3],palavra aceita,17/08/2023,dcdbaa690c33b23e411422f296ef28d8,1000,{0: ('letter wrong', 'm'), 1: ('letter right', 'e'), 2: ('letter wrong', 't'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+3,['beber', 2, 1, 'b', 'e', 'b', 'e', 'r', 0.0002617262717092, 3, 2],palavra aceita,17/08/2023,dcdbaa690c33b23e411422f296ef28d8,1000,{0: ('letter wrong', 'b'), 1: ('letter right', 'e'), 2: ('letter wrong', 'b'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+4,['reger', 2, 1, 'r', 'e', 'g', 'e', 'r', 3.738946738703707e-05, 3, 2],palavra aceita,17/08/2023,dcdbaa690c33b23e411422f296ef28d8,1000,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'g'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+5,['reler', 2, 1, 'r', 'e', 'l', 'e', 'r', 0.0, 3, 2],palavra certa: rever,17/08/2023,dcdbaa690c33b23e411422f296ef28d8,1000,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'l'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+1,dizer,palavra aceita,17/08/2023,236d93a31a38f8957145171bad2e740a,717,{0: ('letter wrong', 'd'), 1: ('letter wrong', 'i'), 2: ('letter wrong', 'z'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+2,meter,palavra aceita,17/08/2023,236d93a31a38f8957145171bad2e740a,717,{0: ('letter wrong', 'm'), 1: ('letter right', 'e'), 2: ('letter wrong', 't'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+3,beber,palavra aceita,17/08/2023,236d93a31a38f8957145171bad2e740a,717,{0: ('letter wrong', 'b'), 1: ('letter right', 'e'), 2: ('letter wrong', 'b'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+4,reger,palavra aceita,17/08/2023,236d93a31a38f8957145171bad2e740a,717,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'g'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+5,reler,palavra certa: rever,17/08/2023,236d93a31a38f8957145171bad2e740a,717,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'l'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+1,dizer,palavra aceita,17/08/2023,3d5713aa66b66119696e8848f037844c,317,{0: ('letter wrong', 'd'), 1: ('letter wrong', 'i'), 2: ('letter wrong', 'z'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+2,meter,palavra aceita,17/08/2023,3d5713aa66b66119696e8848f037844c,317,{0: ('letter wrong', 'm'), 1: ('letter right', 'e'), 2: ('letter wrong', 't'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+3,beber,palavra aceita,17/08/2023,3d5713aa66b66119696e8848f037844c,317,{0: ('letter wrong', 'b'), 1: ('letter right', 'e'), 2: ('letter wrong', 'b'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+4,reger,palavra aceita,17/08/2023,3d5713aa66b66119696e8848f037844c,317,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'g'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+5,reler,palavra certa: rever,17/08/2023,3d5713aa66b66119696e8848f037844c,317,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'l'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+1,dizer,palavra aceita,17/08/2023,bab71e3bcac625fb0ddf37fffe6bbf46,132,{0: ('letter wrong', 'd'), 1: ('letter wrong', 'i'), 2: ('letter wrong', 'z'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+2,meter,palavra aceita,17/08/2023,bab71e3bcac625fb0ddf37fffe6bbf46,132,{0: ('letter wrong', 'm'), 1: ('letter right', 'e'), 2: ('letter wrong', 't'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+3,beber,palavra aceita,17/08/2023,bab71e3bcac625fb0ddf37fffe6bbf46,132,{0: ('letter wrong', 'b'), 1: ('letter right', 'e'), 2: ('letter wrong', 'b'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+4,reger,palavra aceita,17/08/2023,bab71e3bcac625fb0ddf37fffe6bbf46,132,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'g'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+5,reler,palavra certa: rever,17/08/2023,bab71e3bcac625fb0ddf37fffe6bbf46,132,{0: ('letter right', 'r'), 1: ('letter right', 'e'), 2: ('letter wrong', 'l'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+2,meter,palavra aceita,17/08/2023,d13267107ee1b6a130d5913f061ccd7e,581,{0: ('letter wrong', 'm'), 1: ('letter right', 'e'), 2: ('letter wrong', 't'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+3,dever,palavra aceita,17/08/2023,d13267107ee1b6a130d5913f061ccd7e,581,{0: ('letter wrong', 'd'), 1: ('letter right', 'e'), 2: ('letter right', 'v'), 3: ('letter right', 'e'), 4: ('letter right', 'r')}
+4,rever,Impressionante,17/08/2023,d13267107ee1b6a130d5913f061ccd7e,581,{0: ('letter right done', 'r'), 1: ('letter right done', 'e'), 2: ('letter right done', 'v'), 3: ('letter right done', 'e'), 4: ('letter right done', 'r')}
